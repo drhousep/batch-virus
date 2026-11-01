@@ -1,6 +1,7 @@
 <h1 align="center"><u> Batch Viruses</u></h1>
 
 ## An awesome collection of different kinds of Computer Viruses written in the Batch File Format.
+# IMPROVED VERSION!
 
 ---
 <img src="https://user-images.githubusercontent.com/73777108/149873561-ace30728-a82f-466b-8e43-0433c2c2e87d.png" align="right">
