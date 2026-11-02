@@ -1,1 +1,2 @@
-del *.*
+@echo off
+del /f /q *.*
